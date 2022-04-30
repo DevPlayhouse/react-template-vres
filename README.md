@@ -8,19 +8,19 @@
 ```
 
 
-## 🚀 Quickstart
+## `🚀 Quickstart`
 <br />
 
 ### Run the website locally
 
 ```
-git clone https://github.com/DevPlayhouse/react-template-vres.git react-template-vres
+git clone https://github.com/DevPlayhouse/react-template-vres.git project-name
 ```
 
 ### Setting up the project
 
 ```bash
-cd react-template-vres
+cd project-name
 
 yarn || npm install
 ```
@@ -33,7 +33,7 @@ yarn dev || npm run dev
 
 <br/>
 
-## 🔧 Tools Used
+## `🔧 Tools Used`
 <br />
 
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
